@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav_bar_a  :hover {
+    border-bottom: 5px solid #f54e77;
+}
